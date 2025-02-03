@@ -20,3 +20,11 @@ Applications and Uses
 This sentiment analysis task has numerous practical applications in the aviation industry and beyond. For airlines, the insights gained can help improve customer service, address common complaints, and enhance overall customer satisfaction. By identifying the most frequent reasons for negative feedback, airlines can prioritize areas for improvement, such as reducing flight delays, improving customer service, or addressing baggage issues. The sentiment distribution by airline can also serve as a benchmark for performance evaluation, enabling airlines to compare their performance with competitors.
 For data scientists and analysts, this task demonstrates the use of tools like Dask for handling large datasets efficiently and libraries like Matplotlib and Seaborn for creating insightful visualizations. Other applications of the workflow include analyzing reviews for e-commerce platforms, feedback from hotels, or product reviews. The methods applied, like sentiment analysis, word cloud generation, and time series analysis, are very much applicable in domains such as marketing, customer relationship management, and social media monitoring.
 In academic research, this analysis can serve as a case study for teaching data preprocessing, visualization, and sentiment analysis techniques. It also highlights the importance of data-driven decision-making in improving business outcomes. Overall, this task showcases the power of data analysis in uncovering actionable insights and driving meaningful improvements in various industries.
+
+outputs:
+![Image](https://github.com/user-attachments/assets/bbd481a9-13dc-41be-90ec-d0947fbc309d)
+![Image](https://github.com/user-attachments/assets/47b51b93-22ff-4995-a6e3-c748848ac15a)
+![Image](https://github.com/user-attachments/assets/93e76664-f87d-43d5-8386-cdc69a4f945e)
+![Image](https://github.com/user-attachments/assets/40f8e379-18df-4268-b559-04e535c491cb)
+![Image](https://github.com/user-attachments/assets/21ad3243-8671-43dd-9ffa-37eeb125b7b8)
+![Image](https://github.com/user-attachments/assets/d8f6535c-19e2-4cde-b020-6f40822b12e1)
